@@ -1,0 +1,24 @@
+{
+  "name": "api_rpg",
+  "version": "1.0.0",
+  "description": "Albion Online é um mmorpg sandbox onde você escreve sua própria história, em vez de seguir um caminho predefinido. Explore um mundo aberto vasto, consistindo em biomas únicos e diferentes.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luan-Error-404/API_RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luan-Error-404/API_RPG/issues"
+  },
+  "homepage": "https://github.com/Luan-Error-404/API_RPG#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
